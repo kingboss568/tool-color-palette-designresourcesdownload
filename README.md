@@ -1,12 +1,8 @@
 # Color Palette Generator
 
-Static flagship utility site for designresourcesdownload.com.
+Premium static SaaS rewrite for palette.designresourcesdownload.com.
 
-- Custom domain: https://palette.designresourcesdownload.com/
-- GitHub repo target: kingboss568/tool-color-palette-designresourcesdownload
-- Tool family: Design Board
-- Source plan: /Volumes/TEAM 2TB/＠85網站計畫
-
-## Deploy
-
-This directory is intended to be pushed to its own GitHub repository and served with GitHub Pages from the main branch root.
+- Pages: 121
+- Archetype: Design System
+- AdSense: ca-pub-0268893833921284
+- Source manifest: /Users/jushiung/Documents/江毓祥資料庫/大腦系統/outputs/85-flagship-tools-20260601/deployment-manifest.json

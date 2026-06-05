@@ -1,0 +1,45 @@
+Color Palette Generator
+
+Color Palette Generator is a practical design system workspace for marketing designer teams who need a working tool, reference pages, exportable notes, and SEO-ready guidance in one static site.
+
+Key sections:
+- https://palette.designresourcesdownload.com/
+- https://palette.designresourcesdownload.com/tool/
+- https://palette.designresourcesdownload.com/workspace/
+- https://palette.designresourcesdownload.com/reports/
+- https://palette.designresourcesdownload.com/guides/
+- https://palette.designresourcesdownload.com/library/
+- https://palette.designresourcesdownload.com/templates/
+- https://palette.designresourcesdownload.com/compare/
+- https://palette.designresourcesdownload.com/checklists/
+- https://palette.designresourcesdownload.com/integrations/
+- https://palette.designresourcesdownload.com/settings/
+- https://palette.designresourcesdownload.com/plans/
+- https://palette.designresourcesdownload.com/faq/
+- https://palette.designresourcesdownload.com/privacy/
+- https://palette.designresourcesdownload.com/about/
+- https://palette.designresourcesdownload.com/guides/check-color-contrast-1/
+- https://palette.designresourcesdownload.com/guides/build-a-type-scale-2/
+- https://palette.designresourcesdownload.com/guides/draft-a-brand-kit-3/
+- https://palette.designresourcesdownload.com/guides/define-spacing-tokens-4/
+- https://palette.designresourcesdownload.com/guides/compare-component-options-5/
+- https://palette.designresourcesdownload.com/guides/export-design-notes-6/
+- https://palette.designresourcesdownload.com/guides/check-color-contrast-7/
+- https://palette.designresourcesdownload.com/guides/build-a-type-scale-8/
+- https://palette.designresourcesdownload.com/guides/draft-a-brand-kit-9/
+- https://palette.designresourcesdownload.com/guides/define-spacing-tokens-10/
+- https://palette.designresourcesdownload.com/guides/compare-component-options-11/
+- https://palette.designresourcesdownload.com/guides/export-design-notes-12/
+- https://palette.designresourcesdownload.com/guides/check-color-contrast-13/
+- https://palette.designresourcesdownload.com/guides/build-a-type-scale-14/
+- https://palette.designresourcesdownload.com/guides/draft-a-brand-kit-15/
+- https://palette.designresourcesdownload.com/guides/define-spacing-tokens-16/
+- https://palette.designresourcesdownload.com/guides/compare-component-options-17/
+- https://palette.designresourcesdownload.com/guides/export-design-notes-18/
+- https://palette.designresourcesdownload.com/guides/check-color-contrast-19/
+- https://palette.designresourcesdownload.com/guides/build-a-type-scale-20/
+- https://palette.designresourcesdownload.com/guides/draft-a-brand-kit-21/
+- https://palette.designresourcesdownload.com/guides/define-spacing-tokens-22/
+- https://palette.designresourcesdownload.com/guides/compare-component-options-23/
+- https://palette.designresourcesdownload.com/guides/export-design-notes-24/
+- https://palette.designresourcesdownload.com/guides/check-color-contrast-25/
